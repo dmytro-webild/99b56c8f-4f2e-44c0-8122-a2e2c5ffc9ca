@@ -75,7 +75,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/high-angle-breakfast-sandwiches-with-salmon-avocado-with-copy-space_23-2148797019.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/high-angle-breakfast-sandwiches-with-salmon-avocado-with-copy-space_23-2148797019.jpg?_wi=1"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -106,7 +106,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/fruit-salad-coconut-pineapple-plates-top-view_23-2148494807.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-breakfast-sandwiches-with-salmon-avocado-with-copy-space_23-2148797019.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-breakfast-sandwiches-with-salmon-avocado-with-copy-space_23-2148797019.jpg?_wi=2",
           imageAlt: "artisan coffee premium beans closeup",
         },
         {
@@ -136,7 +136,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/ice-cream-with-mixed-fruit_1339-4923.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/cottage-cheese-pancakes-cheesecakes-with-honey-currants-blueberries-blue-background-sweet-food-breakfast-new-year_127032-2542.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cottage-cheese-pancakes-cheesecakes-with-honey-currants-blueberries-blue-background-sweet-food-breakfast-new-year_127032-2542.jpg?_wi=1",
           imageAlt: "artisan coffee premium beans closeup",
         },
       ]}
@@ -157,7 +157,7 @@ export default function LandingPage() {
           name: "Macatia Gourmet",
           price: "8€",
           variant: "Signature",
-          imageSrc: "http://img.b2bpic.net/free-photo/cottage-cheese-pancakes-cheesecakes-with-honey-currants-blueberries-blue-background-sweet-food-breakfast-new-year_127032-2542.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cottage-cheese-pancakes-cheesecakes-with-honey-currants-blueberries-blue-background-sweet-food-breakfast-new-year_127032-2542.jpg?_wi=2",
         },
         {
           id: "2",
